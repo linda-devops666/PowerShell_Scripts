@@ -1,9 +1,12 @@
-# 1.Shuts down all running VMs
-# 2. Disables automatic start
-# 3. Confirmattion all VMs are in 'off' state
+<#
+1.Shuts down all running VMs
+2. Disables automatic start
+3. Confirmattion all VMs are in 'off' state
 
 Created:  10.6.25
 ===================================================================
+#>
+
 
 # Define log file path
 $logPath = "C:\applog\vm_upgrade_log.txt"
